@@ -1,2 +1,2 @@
 # Hospital_Website
-Hospital website using Html ,CSS, JavaScript.
+Hospital website using HTML ,CSS, JavaScript.
